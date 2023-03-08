@@ -53,17 +53,17 @@
     "@mui/icons-material": "^5.10.14",
     "@mui/material": "^5.10.14",
     "@types/jest": "^27.0.1",
-    "@types/react": "^17.0.19",
-    "@types/react-dom": "^17.0.9",
+    "@types/react": "^18.1.0",
+    "@types/react-dom": "^18.1.0",
     "@types/systemjs": "^6.1.1",
-    "@types/webpack-env": "^1.16.2",    
+    "@types/webpack-env": "^1.16.2",
     "keycloak-js": "^19.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
     "react-helmet": "^6.1.0",
     "react-router-dom": "^6.4.3",
     "single-spa": "^5.9.3",
-    "single-spa-react": "^4.3.1"
+    "single-spa-react": "^5.0.1"
   },
   "types": "dist/hydra-admin.d.ts"
 }

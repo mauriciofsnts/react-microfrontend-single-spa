@@ -8,7 +8,7 @@ const router = [
     errorElement: <Pages.Error />,
     children: [
       { path: 'home', element: <Pages.Home /> },
-      { path: 'permissioned', element: <div id="app-container" /> },
+      { path: 'permissioned', element: <Pages.Application /> },
     ],
   },
 ]
