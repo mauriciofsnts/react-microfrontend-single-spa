@@ -1,0 +1,20 @@
+<single-spa-router>
+    <route default>
+        <!-- <application name="@coders/header"></application> -->
+        <main>
+            <route path="blog">
+                <application name="@hydra/blog"></application>
+
+            </route>
+            <route path="admin">
+
+                <application name="@hydra/admin"></application>
+
+                <route path="permissioned">
+                    <application name="@hydra/permissioned"></application>
+                </route>
+            </route>
+
+    </route>
+    </main>
+</single-spa-router>
