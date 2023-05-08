@@ -4,8 +4,8 @@
 # 🚀 Getting Started
 
 ```
-git clone https://github.com/mauriciofsnts/react-microfrontend-cms
-cd react-microfrontend-cms
+git clone https://github.com/mauriciofsnts/react-microfrontend-single-spa.git
+cd react-microfrontend-single-spa
 ```
 
 # ⚙️ Keycloak
